@@ -36,5 +36,4 @@ python -m spacy download en_core_web_sm
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ijaykishore59/resume-analyzer.git
-cd resume-analyzer
+https://github.com/Vijaykishore59/resume-score-checker
