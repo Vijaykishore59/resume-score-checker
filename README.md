@@ -21,7 +21,10 @@ This is a Flask-based web application that analyzes uploaded resumes and compare
 
 ## 🖥️ Demo Screenshot
 
-![screenshot](screenshots/result.png)
+
+![Screenshot 2025-07-04 210328](https://github.com/user-attachments/assets/ce08e2dc-6f18-405f-9622-40464dc4e790)
+![Screenshot 2025-07-04 210345](https://github.com/user-attachments/assets/cc4337fb-586f-4470-8210-eb1c0ae91f90)
+
 
 ---
 
