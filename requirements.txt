@@ -1,0 +1,5 @@
+flask
+PyPDF2
+spacy
+textstat
+scikit-learn
